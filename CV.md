@@ -4,7 +4,9 @@
 
 ## About Me
 
-I am an experienced, fresh and keen agile software developer, specializing in .NET, delivering code to a consistently high standard.
+I am an experienced, fresh and keen agile software developer, specializing in .NET, delivering code to a consistently high standard. Writing code since 14 years old and still loving it!
+
+A real passion for creating fast, effective and beautiful applications across multiple platforms, always keeping an eye on new technology and jumping onto the best ones. 
 
 ## Core Skills
 
@@ -22,6 +24,7 @@ I am an experienced, fresh and keen agile software developer, specializing in .N
     - Web API
     - RESTful Web Services
 - SQL Server
+    - T-SQL
 
 In addition to these core skills, I also have knowledge of and experience with a wide range of other technologies including Polymer, Web Components & React Native.
 
@@ -41,21 +44,22 @@ In addition to these core skills, I also have knowledge of and experience with a
 
 ### **March 2016 - Current - Marval Software Ltd.**
 
-**Software Developer**
+- Software Developer (2016 - Present)
 
 *Summary*
 
-Working closley with the Software Architect introducing new technologies to the product
-aswell as producing the companys first iOS mobile app. Responsible for bridging the gap between the development team and the buisness.
+Working in a development team split across the UK & South Africa, further developing and adding new features to Marval's primary application a large C# web form Service Desk application with customers all around the globe.
 
-Marval's primary application is a large C# web form Service Desk application with customers all around the globe.
+Working closley with the Software Architect introduced a new Agile workflow and the introduction of JIRA.
+
+Using the latest technology to improve system perfomance and customer usability. One of two developers creating a brand new first ever native iOS mobile app built using Swift. 
 
 *Roles & Responsibilities*
 
 - Produce high quallity code and drive the product forward.
 - Design and build effective and attractive user interfaces.
 - Maintaining product quality by carrying out reviews on all pull requests, analyzing feedback, and managing software integration.
-- Participated in user requirements meetings in order to transform client needs into proposed application designs.
+- Participate in user requirements meetings in order to transform client needs into proposed application designs.
 - Mentor and provide assistance to all members of the team.
 
 ### **May 2014 - Feb 2016 - The Grosvenor Group Ltd.**
@@ -96,7 +100,7 @@ Core member of the .NET team, developing and supporting a large end-to-end integ
 
 ### **March 2011 - Oct 2012 - Opus Energy Ltd.**
 
-**IT Analyst**
+- IT Analyst
 
 *Summary*
 Working in a fast paced environment, working on a large win form development using VB.NET, creating new programs for internal use, also part of the team working on a new large consumer facing website using the latest technologies. This website allowed customers to buy and sell energy in an attempt to save money.
@@ -114,17 +118,17 @@ Working in a fast paced environment, working on a large win form development usi
 *2017 - iOS Service Desk Mobile App - Marval Software Ltd*
 
 - Creation of the first mobile service desk product at Marval, this was created to a very high quality from scratch using Swift.
-- Creation of the fully RESTful API for the mobile app to consume, created using ASP.net WebApi and own framework creation.
+- Creation of the fully RESTful Web API for the mobile app to consume, created using ASP.net WebApi and own framework creation.
 
 *2016 - Web Components, Software Intergration - Marval Software Ltd*
     
-- A plugin framework based on the emerging Web Component standards. This allowed third party developers to create plugins that could appear on, interact with and extend almost any page within the application.
+- A plugin framework based on the emerging Web Component standards. This allowed third party developers to create plugins that could appear on, interact with and extend almost any page within the application. This project was a breakthrough for allowing the product to be intergrated with, which was a huge request from customers.
 
 *2016 - Continuous Intergration - Marval Software Ltd*
 
-- Introduction of TeamCity to build the solution on every check in, also creation of tests to be run on builds.
-- Introduction of OctopusDeploy to deploy the solution to many environments
-- Creation of installers on every build, this removed the time consuming manual creations of these on release.
+- Introduction of TeamCity to build the solution on every check in, also creation of intergration tests to be run on builds.
+- Introduction of OctopusDeploy to deploy the solution to many environments (Test, UAT, Production)
+- Creation of installers on every build, this removed the time consuming manual creations of these on release and the abillity to release daily if the company desired.
 
 *2015 - Large SSRS customer reporting pack - The Grosvenor Group Ltd*
 
