@@ -4,9 +4,14 @@
 
 ## About Me
 
-I am an experienced, fresh and keen agile software developer, specializing in .NET, delivering code to a consistently high standard. Writing code since 14 years old and still loving it!
+I am an experienced, fresh and keen agile full stack software developer, specializing in .NET, delivering code to a consistently high standard. Writing code since 14 years old and still loving it!
 
-A real passion for creating fast, effective and beautiful applications across multiple platforms, always keeping an eye on new technology and jumping onto the best ones. 
+
+## Passion for the Web!
+
+I love the web and building fast and effective web applications. Big changes have and are happening this year and the latter part of 2016, and thats the emergence of web component standards and what has been quoted many times as the next generation of web development. This has made a huge change to how we can build progressive web apps and utilizing peoples mobile phones without the need of building native mobile apps.
+
+**Polymer** is a fantastic JavaScript library built to help us make the most of web components, their ultimate goal is to not be needed as our platfrom's abilities increase over time. I have knowledge, skill's & passion for web components and Polymer. 
 
 ## Core Skills
 
@@ -35,7 +40,7 @@ In addition to these core skills, I also have knowledge of and experience with a
 - Agile Development (SCRUM)
     - JIRA
 - XCode
-- iOS, Android, Windows (Store Process)
+- iOS, Android, Windows (Store Submission Process)
 - Continuous Integration 
     - TeamCity
     - OctopusDeploy
