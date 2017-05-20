@@ -4,14 +4,14 @@
 
 ## About Me
 
-I am an experienced, fresh and keen agile full stack software developer, specializing in .NET, delivering code to a consistently high standard. Writing code since 14 years old and still loving it!
+I am a keen, modern yet experienced agile full stack software developer, specializing in .NET, delivering code to a consistently high standard. I have been writing code since 14 years old and I am still loving it!
 
 
-## Passion for the Web!
+## Passion for the Web
 
-I love the web and building fast and effective web applications. Big changes have and are happening this year and the latter part of 2016, and thats the emergence of web component standards and what has been quoted many times as the next generation of web development. This has made a huge change to how we can build progressive web apps and utilizing peoples mobile phones without the need of building native mobile apps.
+I love the web and building fast, effective web applications. Much needed changes have been happening in the web development world recently, and this is thanks to the emergence of web component standards which has been quoted many times as the next generation of web development. This has made a huge change to how we can build progressive web apps and utilize mobile devices without the need of building native mobile apps.
 
-**Polymer** is a fantastic JavaScript library built to help us make the most of web components, their ultimate goal is to not be needed as our platfrom's abilities increase over time. I have knowledge, skill's & passion for web components and Polymer. 
+**Polymer** is a fantastic JavaScript library, built to help us make the most of web components. Their ultimate goal is not to be needed as our platfrom's abilities increase over time. I have knowledge, skill's & passion for web components and Polymer. 
 
 ## Core Skills
 
@@ -21,7 +21,6 @@ I love the web and building fast and effective web applications. Big changes hav
 - iOS Development 
     - Swift
     - XCode
-- SQL/T-SQL
 - CSS
 - HTML
 - ASP.NET
@@ -53,11 +52,11 @@ In addition to these core skills, I also have knowledge of and experience with a
 
 *Summary*
 
-Working in a development team split across the UK & South Africa, further developing and adding new features to Marval's primary application a large C# web form Service Desk application with customers all around the globe.
+Whilst being part of this development team which is split across the UK & South Africa, we have been using the latest technology to improve system perfomance and customer usability. 
 
-Working closley with the Software Architect introduced a new Agile workflow and the introduction of JIRA.
+I have been further developing and adding new features to Marval's large C#/javascript web form Service Desk application which is used by customers all around the globe. I have also worked closely with the Software Architect, introducing a new Agile workflow and product management tool; JIRA.
 
-Using the latest technology to improve system perfomance and customer usability. One of two developers creating a brand new first ever native iOS mobile app built using Swift. 
+I feel one of my greatest projects whilst at Marval has been the opportunity to be one of two developers creating a brand new, first ever, native iOS mobile app built using Swift. 
 
 *Roles & Responsibilities*
 
