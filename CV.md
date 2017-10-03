@@ -9,20 +9,25 @@ I am a keen, modern yet experienced agile full stack software developer, special
 
 ## Passion for the Web
 
-I love the web and building fast, effective web applications. Much needed changes have been happening in the web development world recently, and this is thanks to the emergence of web component standards which has been quoted many times as the next generation of web development. This has made a huge change to how we can build progressive web apps and utilise mobile devices without the need of building native mobile apps.
+I love the web and building fast, effective web applications and progressive web apps. Much needed changes have been happening in the web development world recently, and this is thanks to the emergence and acceptance from leading browsers of web component standards which has been quoted many times as the next generation of web development. This has made a huge change to how we can build progressive web apps and utilise mobile devices without the need of building native mobile apps.
 
-**Polymer** is a fantastic JavaScript library, built to help us make the most of web components. Their ultimate goal is not to be needed as our platform's abilities increase over time. See my key achievements/projects section below for some of my exposure to Polymer and web components. 
 
 ## Core Skills
 
-- C#
-- JavaScript
+
+- Front End Development
+    - es5/es6 Javascript
+    - Polymer
+    - Vanilla Web Components
+    - Redux
+    - Typescript
     - Node.js
+    - CSS
+    - HTML
+- C#
 - iOS Development 
     - Swift
     - XCode
-- CSS
-- HTML
 - ASP.NET
     - MVC
     - Web API
@@ -30,7 +35,7 @@ I love the web and building fast, effective web applications. Much needed change
 - SQL Server
     - T-SQL
 
-In addition to these core skills, I also have knowledge of and experience with a wide range of other technologies including Polymer, Web Components & React Native.
+In addition to these core skills, I also have knowledge of and experience with a wide range of other technologies.
 
 ## IDE, Components & Methodologies
 
@@ -38,17 +43,29 @@ In addition to these core skills, I also have knowledge of and experience with a
 - SSMS, SSRS, SSIS
 - Agile Development (SCRUM)
     - JIRA
+    - TFS
 - XCode
 - iOS, Android, Windows (Store Submission Process)
 - Continuous Integration 
     - TeamCity
     - OctopusDeploy
+    - TFS
+ - GIT & TFS Source Control
 
 ## Experience
 
-### **March 2016 - Current - Marval Software Ltd.**
+### **July 2017 - Current - iSAMS Ltd.**
 
-- Software Developer (2016 - Present)
+- Software Developer
+
+*Summary*
+
+Working in one of the many small agile teams at iSAMS, working with Polymer, Redux, Typescript and C#
+producing high quality software
+
+### **March 2016 - July 2017 - Marval Software Ltd.**
+
+- Software Developer
 
 *Summary*
 
