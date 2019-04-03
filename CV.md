@@ -17,6 +17,8 @@ I love the web and building fast, effective web applications and progressive web
 
 - Front End Development
     - es5/es6 Javascript
+    - Ionic
+    - Stencil
     - Polymer
     - Vanilla Web Components
     - Redux
@@ -24,16 +26,32 @@ I love the web and building fast, effective web applications and progressive web
     - Node.js
     - CSS
     - HTML
-- C#
 - iOS Development 
     - Swift
     - XCode
+- .NET/.NET CORE
+    - C#
+    - VB
+    - Elasticsearch.net
+    - Hangfire
+    - Identity Server
+        - OAUTH
+        - Open ID
 - ASP.NET
     - MVC
     - Web API
     - RESTful Web Services
+    - ASP.NET Core Web API
 - SQL Server
     - T-SQL
+- DevOps
+    - CI/CD
+        - TeamCity
+        - OctopusDeploy
+        - Azure Devops
+    - Docker
+    - Kubernetes
+    - Azure Kubernetes Service / Azure Dev Spaces 
 
 In addition to these core skills, I also have knowledge of and experience with a wide range of other technologies.
 
@@ -41,7 +59,7 @@ In addition to these core skills, I also have knowledge of and experience with a
 
 - Visual Studio 
 - SSMS, SSRS, SSIS
-- Agile Development (SCRUM)
+- Agile Development (SCRUM, KANBAN)
     - JIRA
     - TFS
 - XCode
@@ -50,18 +68,21 @@ In addition to these core skills, I also have knowledge of and experience with a
     - TeamCity
     - OctopusDeploy
     - TFS
+    - Azure Devops
  - GIT & TFS Source Control
+ - IIS
+ - NGINX
 
 ## Experience
 
 ### **July 2017 - Current - iSAMS Ltd.**
 
-- Software Developer
+- Lead Developer (2019 - Present)
+- Software Developer (2017 -2019)
 
 *Summary*
 
-Working in one of the many small agile teams at iSAMS, working with Polymer, Redux, Typescript and C#
-producing high quality software
+Working in and leading small teams working on new projects, based on the latest web standards and web components specifications. Projects vary from UIKits, new modules within the existing app and full-blown Progressive Web Apps.
 
 ### **March 2016 - July 2017 - Marval Software Ltd.**
 
